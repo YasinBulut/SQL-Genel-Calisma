@@ -1,0 +1,1 @@
+ALTER TABLE Tbl_Benzin ALTER COLUMN  Stok int
